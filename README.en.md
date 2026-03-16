@@ -11,7 +11,7 @@ This is a collaborative space to humanize the IT field. Here, developers of all 
 ---
 
 ## 🌏 Choose your Language / Escolha seu Idioma
-- [Português (Brasil)](README.pt.md)
+- [Português (Brasil)](README.md)
 - [English (US)](README.en.md)
 
 ---

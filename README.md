@@ -11,7 +11,7 @@ Este é um espaço colaborativo para humanizar a área de TI. Aqui, desenvolvedo
 ---
 
 ## 🌏 Escolha seu Idioma / Choose your Language
-- [Português (Brasil)](README.pt.md)
+- [Português (Brasil)](README.md)
 - [English (US)](README.en.md)
 
 ---
